@@ -50,6 +50,10 @@
             "variableName": "DSM5_crosscutting_adult_schema",
             "prefLabel": {"en": "DSM-5 Cross-cutting Adult" }
             }
+            {"isAbout": "../activities/PHQ-9/PHQ9_schema",
+            "variableName": "PHQ9_schema",
+            "prefLabel": {"en": "PHQ-9" }
+            }
         ],
     "order": [
 	    "../activities/Activity1/activity1_schema",
@@ -58,7 +62,8 @@
             "../activities/selectActivity/selectActivity_schema",
             "../activities/voiceActivity/voiceActivity_schema",
             "../activities/Activity4/Activity4_schema",
-            "../activities/DSM-5_A/DSM5_crosscutting_adult_schema"
+            "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            "../activities/PHQ-9/PHQ9_schema"
         ],
 		"shuffle": false,
 		"allow": [
