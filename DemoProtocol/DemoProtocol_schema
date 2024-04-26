@@ -49,7 +49,7 @@
             {"isAbout": "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
             "variableName": "DSM5_crosscutting_adult_schema",
             "prefLabel": {"en": "DSM-5 Cross-cutting Adult" }
-            }
+            },
             {"isAbout": "../activities/PHQ-9/PHQ9_schema",
             "variableName": "PHQ9_schema",
             "prefLabel": {"en": "PHQ-9" }
