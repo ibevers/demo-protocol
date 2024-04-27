@@ -1,0 +1,78 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc2/contexts/generic",
+	"@type": "reproschema:Protocol",
+	"@id": "DemoProtocol_schema",
+	"prefLabel": {
+		"en": "Protocol1",
+		"es": "Protocol1_es"
+	},
+	"description": "example Protocol",
+	"schemaVersion": "1.0.0-rc2",
+	"version": "0.0.1",
+	"landingPage": [{
+            "@id": "README.md",
+            "inLanguage": "en"
+        }
+    ],
+	"messages": [
+		{
+			"message": "Test message: Triggered when item1 value is greater than 0",
+			"jsExpression": "item1 > 0"
+		}
+	],
+	"ui": {
+        "addProperties": [
+            {"isAbout": "../activities/Activity1/activity1_schema",
+            "variableName": "activity1_schema",
+            "prefLabel": {"en": "Upload Documents"}
+            },
+            {"isAbout": "../activities/Activity2/Activity2_schema",
+            "variableName": "Activity2_schema",
+            "prefLabel": {"en": "Select Dropdown"}
+            },
+            {"isAbout": "../activities/Activity3/Activity3_schema",
+            "variableName": "Activity3_schema",
+            "prefLabel": {"en": "Enter Input"}
+            },
+            {"isAbout": "../activities/Activity4/Activity4_schema",
+            "variableName": "Activity4_schema",
+            "prefLabel": {"en": "Sign Consent"}
+            },
+            {"isAbout": "../activities/selectActivity/selectActivity_schema",
+            "variableName": "selectActivity_schema",
+            "prefLabel": {"en": "Select Response"}
+            },
+            {"isAbout": "../activities/voiceActivity/voiceActivity_schema",
+            "variableName": "voiceActivity_schema",
+            "prefLabel": {"en": "Voice Activity" }
+            },
+            // {"isAbout": "../demo-protocol/activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            // "variableName": "DSM5_crosscutting_adult_schema",
+            // "prefLabel": {"en": "modified DSM-5_A" }
+            // },
+            {"isAbout": "../demo-protocol/activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
+            "variableName": "DSM5_crosscutting_adult_schema",
+            "prefLabel": {"en": "original DSM-5_A" }
+            },
+            {"isAbout": "../activities/PHQ-9/PHQ9_schema",
+            "variableName": "PHQ9_schema",
+            "prefLabel": {"en": "PHQ-9" }
+            }
+        ],
+    "order": [
+	    "../activities/Activity1/activity1_schema",
+            "../activities/Activity2/Activity2_schema",
+            "../activities/Activity3/Activity3_schema",
+            "../activities/selectActivity/selectActivity_schema",
+            "../activities/voiceActivity/voiceActivity_schema",
+            "../activities/Activity4/Activity4_schema",
+            "../demo-protocol/activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            "..demo-protocol/activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
+            "../activities/PHQ-9/PHQ9_schema"
+        ],
+		"shuffle": false,
+		"allow": [
+			"reproschema:AllowExport"
+		]
+	}
+}
