@@ -46,7 +46,7 @@
             "variableName": "voiceActivity_schema",
             "prefLabel": {"en": "Voice Activity" }
             },
-            {"isAbout": "../demo-protocol/activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
+            {"isAbout": "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
             "variableName": "DSM5_crosscutting_adult_schema",
             "prefLabel": {"en": "original DSM-5_A" }
             },
@@ -56,13 +56,13 @@
             }
         ],
     "order": [
-	    "../activities/Activity1/activity1_schema",
+	        "../activities/Activity1/activity1_schema",
             "../activities/Activity2/Activity2_schema",
             "../activities/Activity3/Activity3_schema",
             "../activities/selectActivity/selectActivity_schema",
             "../activities/voiceActivity/voiceActivity_schema",
             "../activities/Activity4/Activity4_schema",
-            "..demo-protocol/activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
+            "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
             "../activities/PHQ-9/PHQ9_schema"
         ],
 		"shuffle": false,
