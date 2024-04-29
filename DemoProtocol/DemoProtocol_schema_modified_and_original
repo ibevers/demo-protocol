@@ -50,17 +50,29 @@
             "variableName": "PHQ9_schema",
             "prefLabel": {"en": "PHQ-9" }
             },
-            {"isAbout": "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
-            "variableName": "DSM5_crosscutting_adult_schema",
-            "prefLabel": {"en": "modified DSM-5_A" }
-            },
             {"isAbout": "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
             "variableName": "DSM5_crosscutting_adult_schema",
             "prefLabel": {"en": "original DSM-5_A" }
             },
+            {"isAbout": "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            "variableName": "DSM5_crosscutting_adult_schema",
+            "prefLabel": {"en": "modified DSM-5_A" }
+            },
             {"isAbout": "../activities/WHODAS12_original/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
             "prefLabel": {"en": "original WHODAS12_schema" }
+            },
+            {"isAbout": "../activities/WHODAS12/WHODAS12_schema",
+            "variableName": "WHODAS12_schema",
+            "prefLabel": {"en": "modified WHODAS12_schema" }
+            },
+            {"isAbout": "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
+            "variableName": "WHODAS36_proxy_administered_schema",
+            "prefLabel": {"en": "Newly added WHODAS36_proxy_administered_schema"}
+            },
+            {"isAbout": "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
+            "variableName": "WHODAS36_self_administered_schema",
+            "prefLabel": {"en": "Newly added WHODAS36_self_administered_schema"}
             }
         ],
     "order": [
@@ -71,9 +83,11 @@
             "../activities/voiceActivity/voiceActivity_schema",
             "../activities/Activity4/Activity4_schema",
             "../activities/PHQ-9/PHQ9_schema",
-            "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
             "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
-            "../activities/WHODAS12_original/WHODAS12_schema"
+            "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            "../activities/WHODAS12_original/WHODAS12_schema",
+            "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
+            "../activities/WHODAS36_S/WHODAS36_self_administered_schema"
         ],
 		"shuffle": false,
 		"allow": [
