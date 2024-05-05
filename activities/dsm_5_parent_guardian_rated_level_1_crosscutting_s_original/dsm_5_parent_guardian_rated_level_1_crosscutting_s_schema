@@ -8,6 +8,7 @@
     "ui": {
         "order": [
             "items/dsm_5_relationship",
+            "items/dsm_5_instructions",
             "items/dsm_5_i_1",
             "items/dsm_5_i_2",
             "items/dsm_5_ii_3",
@@ -42,8 +43,33 @@
                 "isVis": true
             },
             {
+                "variableName": "dsm_5_relationship",
+                "isAbout": "items/dsm_5_relationship",
+                "isVis": true
+            },
+            {
+                "variableName": "dsm_5_instructions",
+                "isAbout": "items/dsm_5_instructions",
+                "isVis": true
+            },
+            {
+                "variableName": "dsm_5_instructions",
+                "isAbout": "items/dsm_5_instructions",
+                "isVis": true
+            },
+            {
                 "variableName": "dsm_5_i_1",
                 "isAbout": "items/dsm_5_i_1",
+                "isVis": true
+            },
+            {
+                "variableName": "dsm_5_i_1",
+                "isAbout": "items/dsm_5_i_1",
+                "isVis": true
+            },
+            {
+                "variableName": "dsm_5_i_2",
+                "isAbout": "items/dsm_5_i_2",
                 "isVis": true
             },
             {
