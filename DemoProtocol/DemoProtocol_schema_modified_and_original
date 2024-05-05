@@ -91,7 +91,8 @@
             "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
             "../activities/WHODAS12_original/WHODAS12_schema",
             "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
-            "../activities/WHODAS36_S/WHODAS36_self_administered_schema"
+            "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
+            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original"
         ],
 		"shuffle": false,
 		"allow": [
