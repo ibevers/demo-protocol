@@ -78,9 +78,13 @@
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "prefLabel": {"en": "Original DSM-5 parent guardian"}
             },
+            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            "prefLabel": {"en": "Modified DSM-5 parent guardian"}
+            },
             {"isAbout": "../activities/pg5/pg5_schema",
             "variableName": "pg5",
-            "prefLabel": {"en": "Modified DSM-5 parent guardian"}
+            "prefLabel": {"en": "Delete pg5"}
             }
         ],
     "order": [
@@ -97,6 +101,7 @@
             "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
             "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
             "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "../activities/pg5/pg5_schema"
         ],
 		"shuffle": false,
