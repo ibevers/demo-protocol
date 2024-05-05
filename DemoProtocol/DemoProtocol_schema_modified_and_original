@@ -73,6 +73,10 @@
             {"isAbout": "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
             "variableName": "WHODAS36_self_administered_schema",
             "prefLabel": {"en": "Newly added WHODAS36_self_administered_schema"}
+            },
+            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original",
+            "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_original",
+            "prefLabel": {"en": "Newly added WHODAS36_self_administered_schema"}
             }
         ],
     "order": [
