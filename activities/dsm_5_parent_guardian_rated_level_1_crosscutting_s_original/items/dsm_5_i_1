@@ -10,27 +10,23 @@
         "choices": [
             {
                 "value": 0,
-                "name": "None",
-                "image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/not at all .png"
+                "name": "Not at all"
             },
             {
                 "value": 1,
-                "name": "Slight"
+                "name": "Rare, less than a day or two"
             },
             {
                 "value": 2,
-                "name": "Mild",
-                "image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/several days .png"
+                "name": "Several days"
             },
             {
                 "value": 3,
-                "name": "Moderate",
-                "image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/more than half the days .png"
+                "name": "More than half the days"
             },
             {
                 "value": 4,
-                "name": "Severe",
-                "image": "https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/618x618/nearly every day.png"
+                "name": "Nearly every day"
             }
         ]
     },
