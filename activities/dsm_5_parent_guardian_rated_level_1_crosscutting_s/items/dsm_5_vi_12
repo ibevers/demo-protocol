@@ -38,6 +38,9 @@
         "inputType": "radio"
     },
     "question": {
-        "en": "VIII.12. Not been able to stop worrying?"
+        "en": "Not been able to stop worrying?"
+    },
+    "preamble": {
+        "en": "During the past TWO (2) WEEKS, how much (or how often) has your child..."
     }
 }
