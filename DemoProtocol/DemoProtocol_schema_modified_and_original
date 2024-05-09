@@ -89,8 +89,19 @@
             {"isAbout": "../activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
             "variableName": "DSM5_crosscutting_youth_schema",
             "prefLabel": {"en": "Modified DSM-5 youth"}
+            },
+            {"isAbout": "../activities/RCADS-25/RCADS-25_schema",
+            "variableName": "RCADS-25_schema",
+            "prefLabel": {"en": "Original RCADS-25 Youth version"}
+            },
+            {"isAbout": "../activities/RCADS-25-C/RCADS25_caregiver_administered_schema",
+            "variableName": "RCADS25_caregiver_administered_schema",
+            "prefLabel": {"en": "Newly added RCADS-25 Caregiver version"}
+            },
+            {"isAbout": "../activities/RCADS-25-C/RCADS25_youth_administered_schema",
+            "variableName": "RCADS25_youth_administered_schema",
+            "prefLabel": {"en": "Modified RCADS-25 Youth version"}
             }
-            
         ],
     "order": [
 	        "../activities/Activity1/activity1_schema",
@@ -108,7 +119,10 @@
             "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "../activities/DSM-5_Y_original/DSM5_crosscutting_youth_schema",
-            "../activities/DSM-5_Y/DSM5_crosscutting_youth_schema"
+            "../activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
+            "../activities/RCADS-25",
+            "../activities/RCADS-25-C",
+            "../activities/RCADS-25-Y"
         ],
 		"shuffle": false,
 		"allow": [
