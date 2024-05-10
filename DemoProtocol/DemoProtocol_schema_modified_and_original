@@ -60,7 +60,7 @@
             },
             {"isAbout": "../activities/WHODAS12_original/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
-            "prefLabel": {"en": "original WHODAS12_schema" }
+            "prefLabel": {"en": "modified WHODAS12_schema" }
             },
             {"isAbout": "../activities/WHODAS12/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
