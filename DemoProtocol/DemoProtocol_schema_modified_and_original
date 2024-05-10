@@ -60,7 +60,7 @@
             },
             {"isAbout": "../activities/WHODAS12_original/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
-            "prefLabel": {"en": "modified WHODAS12_schema" }
+            "prefLabel": {"en": "original WHODAS12_schema" }
             },
             {"isAbout": "../activities/WHODAS12/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
@@ -114,6 +114,7 @@
             "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
             "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
             "../activities/WHODAS12_original/WHODAS12_schema",
+            "../activities/WHODAS12/WHODAS12_schema",
             "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
             "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
             "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
