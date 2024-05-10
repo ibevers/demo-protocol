@@ -20,17 +20,17 @@
     "ui": {
         "addProperties": [
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_07",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_07",
                 "variableName": "WHODAS36_S_07",
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_21",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_21",
                 "variableName": "WHODAS36_S_21",
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_04",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_04",
                 "variableName": "WHODAS36_S_04",
                 "isVis": true
             },
@@ -45,7 +45,7 @@
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_01",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_01",
                 "variableName": "WHODAS36_S_01",
                 "isVis": true
             },
@@ -60,27 +60,27 @@
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_12",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_12",
                 "variableName": "WHODAS36_S_12",
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_13",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_13",
                 "variableName": "WHODAS36_S_13",
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_16",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_16",
                 "variableName": "WHODAS36_S_16",
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_17",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_17",
                 "variableName": "WHODAS36_S_17",
                 "isVis": true
             },
             {
-                "isAbout": "../../WHODAS36_S/items/WHODAS36_S_25",
+                "isAbout": "../WHODAS36_S/items/WHODAS36_S_25",
                 "variableName": "WHODAS36_S_25",
                 "isVis": true
             },
@@ -106,18 +106,18 @@
             }
         ],
         "order": [
-            "../../WHODAS36_S/items/WHODAS36_S_07",
-            "../../WHODAS36_S/items/WHODAS36_S_21",
-            "../../WHODAS36_S/items/WHODAS36_S_04",
+            "../WHODAS36_S/items/WHODAS36_S_07",
+            "../WHODAS36_S/items/WHODAS36_S_21",
+            "../WHODAS36_S/items/WHODAS36_S_04",
             "items/WHODAS12_4",
             "items/WHODAS12_5",
-            "../../WHODAS36_S/items/WHODAS36_S_01",
+            "../WHODAS36_S/items/WHODAS36_S_01",
             "items/WHODAS12_7",
-            "../../WHODAS36_S/items/WHODAS36_S_12",
-            "../../WHODAS36_S/items/WHODAS36_S_13",
-            "../../WHODAS36_S/items/WHODAS36_S_16",
-            "../../WHODAS36_S/items/WHODAS36_S_17",
-            "../../WHODAS36_S/items/WHODAS36_S_25",
+            "../WHODAS36_S/items/WHODAS36_S_12",
+            "../WHODAS36_S/items/WHODAS36_S_13",
+            "../WHODAS36_S/items/WHODAS36_S_16",
+            "../WHODAS36_S/items/WHODAS36_S_17",
+            "../WHODAS36_S/items/WHODAS36_S_25",
             "items/WHODAS12_days_1",
             "items/WHODAS12_days_2",
             "items/WHODAS12_days_3"
