@@ -6,7 +6,7 @@
     "@id": "dsm_5_instructions",
     "prefLabel": "dsm_5_instructions",
     "ui": {
-        "inputType": "StaticReadOnly"
+        "inputType": "static"
     },
     "responseOptions":{
         "readOnly": true
