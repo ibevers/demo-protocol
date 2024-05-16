@@ -78,8 +78,12 @@
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "prefLabel": {"en": "Original DSM-5 parent guardian"}
             },
-            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
-            "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
+            "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
+            "prefLabel": {"en": "Modified DSM-5 parent guardian"}
+            },
+            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
+            "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
             "prefLabel": {"en": "Modified DSM-5 parent guardian"}
             },
             {"isAbout": "../activities/DSM-5_Y_original/DSM5_crosscutting_youth_schema",
@@ -118,7 +122,8 @@
             "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
             "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
             "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
-            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
+            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
             "../activities/DSM-5_Y_original/DSM5_crosscutting_youth_schema",
             "../activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
             "../activities/RCADS-25/RCADS-25_schema",
