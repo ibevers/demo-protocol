@@ -80,11 +80,11 @@
             },
             {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
-            "prefLabel": {"en": "Modified DSM-5 parent guardian"}
+            "prefLabel": {"en": "Modified DSM-5 parent guardian part 1"}
             },
             {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
-            "prefLabel": {"en": "Modified DSM-5 parent guardian"}
+            "prefLabel": {"en": "Modified DSM-5 parent guardian part 2"}
             },
             {"isAbout": "../activities/DSM-5_Y_original/DSM5_crosscutting_youth_schema",
             "variableName": "DSM5_crosscutting_youth_schema",
