@@ -46,63 +46,67 @@
             "variableName": "voiceActivity_schema",
             "prefLabel": {"en": "Voice Activity" }
             },
-            {"isAbout": "../activities/PHQ-9/PHQ9_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/PHQ-9/PHQ9_schema",
             "variableName": "PHQ9_schema",
-            "prefLabel": {"en": "PHQ-9" }
+            "prefLabel": {"en": "PHQ-9 Original" }
             },
-            {"isAbout": "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-phq9/activities/PHQ-9/PHQ9_schema",
+            "variableName": "PHQ9_schema",
+            "prefLabel": {"en": "PHQ-9 Modified" }
+            },
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/DSM-5_A/DSM5_crosscutting_adult_schema",
             "variableName": "DSM5_crosscutting_adult_schema",
             "prefLabel": {"en": "original DSM-5_A" }
             },
-            {"isAbout": "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-nimh-minimal-schema-activities/activities/DSM-5_A/DSM5_crosscutting_adult_schema",
             "variableName": "DSM5_crosscutting_adult_schema",
             "prefLabel": {"en": "modified DSM-5_A" }
             },
-            {"isAbout": "../activities/WHODAS12_original/WHODAS12_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/WHODAS12/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
             "prefLabel": {"en": "original WHODAS12_schema" }
             },
-            {"isAbout": "../activities/WHODAS12/WHODAS12_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-whodas/activities/WHODAS12/WHODAS12_schema",
             "variableName": "WHODAS12_schema",
             "prefLabel": {"en": "modified WHODAS12_schema" }
             },
-            {"isAbout": "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-whodas/activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
             "variableName": "WHODAS36_proxy_administered_schema",
             "prefLabel": {"en": "Newly added WHODAS36_proxy_administered_schema"}
             },
-            {"isAbout": "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-whodas/activities/WHODAS36_S/WHODAS36_self_administered_schema",
             "variableName": "WHODAS36_self_administered_schema",
             "prefLabel": {"en": "Newly added WHODAS36_self_administered_schema"}
             },
-            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
             "prefLabel": {"en": "Original DSM-5 parent guardian"}
             },
-            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-dsm_5_parent_guardian_rated_level_1_crosscutting_s/activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
-            "prefLabel": {"en": "Modified DSM-5 parent guardian part 1"}
+            "prefLabel": {"en": "Modified DSM-5 parent guardian part 1, items: 1-19"}
             },
-            {"isAbout": "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-dsm_5_parent_guardian_rated_level_1_crosscutting_s/activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
             "variableName": "dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
-            "prefLabel": {"en": "Modified DSM-5 parent guardian part 2"}
+            "prefLabel": {"en": "Modified DSM-5 parent guardian part 2, items: 20-25 "}
             },
-            {"isAbout": "../activities/DSM-5_Y_original/DSM5_crosscutting_youth_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
             "variableName": "DSM5_crosscutting_youth_schema",
             "prefLabel": {"en": "Original DSM-5 youth"}
             },
-            {"isAbout": "../activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-dsm_5_youth_self_rated_cross-cutting/activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
             "variableName": "DSM5_crosscutting_youth_schema",
             "prefLabel": {"en": "Modified DSM-5 youth"}
             },
-            {"isAbout": "../activities/RCADS-25/RCADS-25_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/RCADS-25/RCADS-25_schema",
             "variableName": "RCADS-25_schema",
             "prefLabel": {"en": "Original RCADS-25 Youth version"}
             },
-            {"isAbout": "../activities/RCADS-25-C/RCADS25_caregiver_administered_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-rcads25/activities/RCADS-25-C/RCADS25_caregiver_administered_schema",
             "variableName": "RCADS25_caregiver_administered_schema",
             "prefLabel": {"en": "Newly added RCADS-25 Caregiver version"}
             },
-            {"isAbout": "../activities/RCADS-25-Y/RCADS25_youth_administered_schema",
+            {"isAbout": "https://raw.githubusercontent.com/ibevers/reproschema-library/check-rcads25/activities/RCADS-25-Y/RCADS25_youth_administered_schema",
             "variableName": "RCADS25_youth_administered_schema",
             "prefLabel": {"en": "Modified RCADS-25 Youth version"}
             }
@@ -114,21 +118,22 @@
             "../activities/selectActivity/selectActivity_schema",
             "../activities/voiceActivity/voiceActivity_schema",
             "../activities/Activity4/Activity4_schema",
-            "../activities/PHQ-9/PHQ9_schema",
-            "../activities/DSM-5_A_original/DSM5_crosscutting_adult_schema",
-            "../activities/DSM-5_A/DSM5_crosscutting_adult_schema",
-            "../activities/WHODAS12_original/WHODAS12_schema",
-            "../activities/WHODAS12/WHODAS12_schema",
-            "../activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
-            "../activities/WHODAS36_S/WHODAS36_self_administered_schema",
-            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s_original/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
-            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
-            "../activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
-            "../activities/DSM-5_Y_original/DSM5_crosscutting_youth_schema",
-            "../activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
-            "../activities/RCADS-25/RCADS-25_schema",
-            "../activities/RCADS-25-C/RCADS25_caregiver_administered_schema",
-            "../activities/RCADS-25-Y/RCADS25_youth_administered_schema"
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/PHQ-9/PHQ9_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-phq9/activities/PHQ-9/PHQ9_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-nimh-minimal-schema-activities/activities/DSM-5_A/DSM5_crosscutting_adult_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/WHODAS12/WHODAS12_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-whodas/activities/WHODAS12/WHODAS12_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-whodas/activities/WHODAS36_P/WHODAS36_proxy_administered_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-whodas/activities/WHODAS36_S/WHODAS36_self_administered_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-dsm_5_parent_guardian_rated_level_1_crosscutting_s/activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_first_19",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-dsm_5_parent_guardian_rated_level_1_crosscutting_s/activities/dsm_5_parent_guardian_rated_level_1_crosscutting_s/dsm_5_parent_guardian_rated_level_1_crosscutting_s_schema_20_to_25",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-dsm_5_youth_self_rated_cross-cutting/activities/DSM-5_Y/DSM5_crosscutting_youth_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/master/activities/RCADS-25/RCADS-25_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-rcads25/activities/RCADS-25-C/RCADS25_caregiver_administered_schema",
+            "https://raw.githubusercontent.com/ibevers/reproschema-library/check-rcads25/activities/RCADS-25-Y/RCADS25_youth_administered_schema"
         ],
 		"shuffle": false,
 		"allow": [
